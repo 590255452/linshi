@@ -4,6 +4,7 @@
 }
 body {
   background: #718093;
+  user-select:none;
 }
 body .one {
   width: 0;
