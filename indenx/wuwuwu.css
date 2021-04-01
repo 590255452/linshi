@@ -1,0 +1,47 @@
+* {
+  margin: 0；
+	padding:0;
+}
+body {
+  background: #718093;
+}
+body .one {
+  width: 0;
+  height: 0;
+  border-left: 95vh solid transparent;
+  border-right: 95vh solid transparent;
+  border-bottom: 60vh solid black;
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, -100%);
+  z-index: -2;
+}
+body .two {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 95vh solid transparent;
+  border-right: 95vh solid transparent;
+  border-top: 60vh solid white;
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%, 0%);
+  z-index: -1;
+}
+body p {
+  display: flex;
+  font-size: 50px;
+  font-weight: 100;
+  justify-content: center;
+  align-items: center;
+  color: pink;
+  z-index: 11;
+  width: 15px;
+  margin: 0 auto;
+  margin-top: 430px;
+  line-height: 52px;
+  font-size: 40px;
+  /*竖排显示设置margin、lineheight、fontsize、width*/
+}
