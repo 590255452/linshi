@@ -4,7 +4,6 @@
 }
 body {
   background: #718093;
-  user-select:none;
 }
 body .one {
   width: 0;
@@ -44,5 +43,6 @@ body p {
   margin-top: 430px;
   line-height: 52px;
   font-size: 40px;
+  user-select:none;
   /*竖排显示设置margin、lineheight、fontsize、width*/
 }
