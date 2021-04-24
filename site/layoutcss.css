@@ -12,7 +12,10 @@ body {
 .header {
     padding: 30px;
     text-align: center;
-    background: white;
+    background: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3251942895,1580773440&fm=26&gp=0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 .header h1 {
@@ -60,7 +63,14 @@ body {
 .fakeimg {
     background-color: #aaa;
     width: 100%;
-    padding: 20px;
+    padding: 0;
+    margin: 0;
+
+}
+.fakeimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* 文章卡片效果 */
@@ -101,4 +111,26 @@ body {
         float: none;
         width: 100%;
     }
+}
+
+.card p{
+    text-indent: 2em;
+}
+.card .one{
+    text-indent: 0em;
+}
+.rightcolumn .card .six{
+    text-indent: 0em;
+    padding: 0;
+    margin-left: 10px;
+}
+.footer{
+    background: black;
+    height: 100px;
+}
+.footer h2{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+
 }
