@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c78dba28980fafc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a2a88718908d379",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECMA.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e45754c698c4eb19",
+    "type": "split",
+    "children": [
+      {
+        "id": "1876f9f02e9c146a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75dc968c0ed15aff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf9db5656a2a5bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECMA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9b7f8dbc9e4cdec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "return a+b",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bea6fb6faa04316",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECMA.md"
+              }
+            }
+          },
+          {
+            "id": "adc76fde270b1a8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b1e876f9c02bb4d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "9d54369a237b9c0e",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a2a88718908d379",
+  "lastOpenFiles": [
+    "ECMA.md",
+    "lalla.md",
+    "Vue.md",
+    "ScreenShot_20220224010041 1.png",
+    "0.png",
+    "img/lin-yan-grinns.jpg",
+    "ScreenShot_20220224010258.png"
+  ]
+}
